@@ -1,0 +1,98 @@
+
+body {
+    
+    background: url(image/bg-hero.png) no-repeat center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f6fcff;
+    font-family: 'Poppins', sans-serif;
+}
+.items-center{
+    align-items: center
+}
+.img-logo{
+    height: 1.5rem
+}
+.f-color{
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+}
+.f-color:hover{
+    color: black;
+}
+.drop-mn{
+    border: none; 
+    background: none; 
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 3px;
+}
+.drop-mn:hover{
+    border: none; 
+    background: none; 
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 3px;
+}
+.btn-log{
+    border-radius: 9999px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.btn-regis{
+    margin-left: 10px;
+}
+.container-time {
+    padding-right: 30px;
+}
+
+.btn-time {
+    padding-top: 4px;
+    padding-right: 13px;
+    background-color: #0d6efd;
+    border-radius: 50%;
+    padding-left: 13px;
+    padding-bottom: 4px;
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.font-normal {
+    font-size: 15px;
+}
+.btn-konsul{
+    margin-left: 20px;
+    font-weight: 500;
+}
+.dropdown-menu{
+    font-size: 12px;
+}
+.img-sec{
+    padding-top: 71px;
+    width: 100%;
+}
+.btn-daftar{
+    font-weight: 500;
+    font-size: 13px;
+    padding-left: 27px;
+    padding-right: 29px;
+}
+.foot-p{
+    margin-top: 50px;
+}
+.content-position{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.card-content{
+    height: 113px;
+    content-visibility: auto;
+    font-size: 14px;
+    margin-top: -72px;
+}
